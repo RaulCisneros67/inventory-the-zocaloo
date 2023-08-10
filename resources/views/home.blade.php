@@ -6,6 +6,7 @@
     </div>
 
 <h1>Bienvenido al sistema de ventas ferreteria el Zocalo</h1>
+<h2>Ferreteria el Zocalo</h2>
 
     <div class="bg-green">
         <form action="{{route('products.index')}}" method="get">
