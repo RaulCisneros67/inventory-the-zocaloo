@@ -20,7 +20,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
 
 </head>
-  <body class="bg-green-200 text-gray-800">
+  <body class="bg-blue-200 text-gray-800">
 
     <nav class="h-16 flex justify-end py-4 px-16">
         <div class="col-sm-3 bg-light">
