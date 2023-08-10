@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="form-row m-15 " >
-    <center><img src="{!! asset('img/logo1.png') !!} " alt="" width="40%" height="40%" /></center>
+    <center><img src="{!! asset('img/logo1.png') !!} " alt="" width="45%" height="40%" /></center>
     </div>
 
 <h1>Bienvenido al sistema de ventas ferreteria el Zocalo</h1>
