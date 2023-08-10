@@ -9,7 +9,7 @@
     </div>
 
 <center>
-
+<h1>Hola</h1>
 <form action="{{ route('products.create') }}" method="POST" enctype="multipart/form-data"
 class="bg-white w-1/3 p-4 border-gray-100 shadow-xl rounded-lg">
 @csrf
