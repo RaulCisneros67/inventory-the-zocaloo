@@ -5,7 +5,7 @@
     <center><img src="{!! asset('img/logo1.png') !!} " alt="" width="40%" height="40%" /></center>
     </div>
 
-
+<h1>Bienvenido al sistema de ventas ferreteria el Zocalo</h1>
 
     <div class="bg-green">
         <form action="{{route('products.index')}}" method="get">
