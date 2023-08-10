@@ -5,7 +5,7 @@
 @section('content')
 
 <div class="form-row m-15 " >
-    <center><img src="{!! asset('img/logo1.png') !!} " alt="" width="20%" height="20%" /></center>
+    <center><img src="{!! asset('img/const.png') !!} " alt="" width="20%" height="20%" /></center>
     </div>
 
 <center>
