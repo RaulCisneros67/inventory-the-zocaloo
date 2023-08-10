@@ -38,7 +38,7 @@ placeholder="Marca" name="marca" value="{{ $product->Marca }}">
 placeholder="Precio" name="precio" value="{{ $product->precio }}">
 
 <button type="submit" class="my-3 w-full bg-green-500 p-2 font-semibold
-rounded text-white hover:bg-green-600">Añadir</button>
+rounded text-white hover:bg-blue-600">Añadir</button>
 
 </form>
 
