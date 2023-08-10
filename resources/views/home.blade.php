@@ -51,7 +51,8 @@
               <th class="w-20 py-4 ...">Imagen</th>
               <th class="w-1/8 py-4 ...">Producto</th>
               <th class="w-1/8 py-4 ...">Clave</th>
-              <th class="w-1/16 py-4 ...">Unidades</th>
+              <th class="w-1/16 py-4 ...">Cantidad
+              </th>
               <th class="w-1/16 py-4 ...">Marca</th>
               <th class="w-1/16 py-4 ...">Precio</th>
               <th class="w-1/16 py-4 ...">Agregar</th>
