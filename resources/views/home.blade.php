@@ -82,7 +82,7 @@
 
                 <input type="submit" name="btn"  class="btn btn-success" value="Agregar">
                 @else
-                <p>Sin Existencias</p>
+                <p>Sin Unidades</p>
                 @endif
             </form></td>
 
