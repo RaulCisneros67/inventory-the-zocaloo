@@ -47,6 +47,7 @@
         <table class="table-auto w-full">
           <thead>
             <tr class="bg-green-500 text-black">
+              <th class="w-20 py-4 ...">Id</th>
               <th class="w-20 py-4 ...">Imagen</th>
               <th class="w-1/8 py-4 ...">Producto</th>
               <th class="w-1/8 py-4 ...">Clave</th>
@@ -62,6 +63,7 @@
 
 
             <tr class="bg-green-50">
+            <td class="border border-green-800">{{$row->id}}</td>
 
               <td class="border border-green-800"><img class="ImagenProducto" src="{{ $row->Imagen }}"></td>
               <td class="p-3 text-center border border-green-800">{{ $row->Producto }}</td>
